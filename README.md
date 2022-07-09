@@ -1,4 +1,4 @@
-## Stats
+## 🔥 Github Stats
 
 ![pasitoapasito's GitHub stats](https://github-readme-stats.vercel.app/api?username=pasitoapasito&show_icons=true&theme=codeSTACKr)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasitoapasito&theme=codeSTACKr&layout=compact)
 
@@ -6,7 +6,7 @@
 
 <hr>
 
-## Stacks
+## ✨ Tech Stacks
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=white"/>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/MySQL-00979D?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FFDD00?style=plastic&logo=Amazon AWS&logoColor=white"/>
 </div>
-<br><br>
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=NGINX&logoColor=white"/>
