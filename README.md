@@ -7,6 +7,7 @@
 <hr>
 
 ## ✨ Tech Stacks
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-blue?style=plastic&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
