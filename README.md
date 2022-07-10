@@ -23,9 +23,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/>
 </div>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/Slack-F0047F?style=plastic&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-FFFFFF?style=plastic&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/>
+</div>
 
 <br><br>
-
 
 <hr>
 
