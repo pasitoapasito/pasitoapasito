@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django Rest Framework-EE350F?style=plastic&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00979D?style=plastic&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FFB71B?style=plastic&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=Amazon AWS&logoColor=white"/>
 </div>
 <br>
 <div align="center">
