@@ -5,6 +5,7 @@
 
 <hr>
 
+<!--
 ## ✨ Tech Stacks
 <br>
 <div align="center">
@@ -35,6 +36,7 @@
 <br><br>
 
 <hr>
+-->
 
 <!--
 **pasitoapasito/pasitoapasito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
